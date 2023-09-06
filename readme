@@ -1,1 +1,6 @@
-Código em UDP que transmite uma mensagem utilizando a técnica de criptografia de substituição polialfabética de Vigenère.
+Solução baseada no protocolo UDP que transmita uma mensagem criptografada com chave de 4096bits utilizando a criptografia RSA.
+
+•	Henrique Bragante Galli - 081190025
+•	Marcio Rios Kunimura - 081200041
+•	Renan Oliveira França - 081190025
+•	William Massao Saito - 081190001
